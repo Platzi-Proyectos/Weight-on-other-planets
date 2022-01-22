@@ -1,1 +1,1 @@
-# Weight-on-other-planets
+# Weight on other planets
