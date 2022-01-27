@@ -1,15 +1,17 @@
 # Weight on other planets
 
-¿Cómo usar este proyecto?
+How to use this project?
 
-Paso 1: clonar el proyecto
+## Step 1: Clone the project
 
-git clone
+`git clone`
 
-Paso 2: navegar hacia la carpeta e instalar dependencias
 
-yarn install
+## Step 2: Navigate to the folder and install dependencies
 
-Paso 3: ejecutar el proyecto
+`yarn install`
 
-yarn start
+
+## Step 3: Run the project
+
+`yarn start`
